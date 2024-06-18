@@ -1,0 +1,41 @@
+export const typeColorsForLabels = {
+    normal: '#797A42',
+    grass: '#5EA53E',
+    fire: '#CF6F2B',
+    water: '#2B5CCF',
+    electric: '#CFAE2B',
+    ice: '#3EA1A5',
+    ground: '#A5893E',
+    flying: '#593EA5',
+    poison: '#a040a0',
+    fighting: '#A5433E',
+    psychic: '#A53E5D',
+    dark: '#725847',
+    rock: '#7A7042',
+    bug: '#a8b720',
+    ghost: '#642BCF',
+    steel: '#3A3850',
+    dragon: '#592BCF',
+    fairy: '#A53E60'
+};
+
+export const typeColorsForBackground = {
+    normal: '#a6a877',
+    grass: '#77c850',
+    fire: '#ee7f30',
+    water: '#678fee',
+    electric: '#f7cf2e',
+    ice: '#98d5d7',
+    ground: '#dfbf69',
+    flying: '#a98ff0',
+    poison: '#7A427A',
+    fighting: '#bf3029',
+    psychic: '#f65687',
+    dark: '#504238',
+    rock: '#504C38',
+    bug: '#BFCF2B',
+    ghost: '#6e5896',
+    steel: '#b9b7cf',
+    dragon: '#6f38f6',
+    fairy: '#f9aec7'
+};
