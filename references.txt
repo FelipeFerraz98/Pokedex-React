@@ -1,0 +1,10 @@
+https://create-react-app.dev - (npx create-react-app my-app)
+
+https://github.com/FelipeFerraz98/Pokedex/tree/main - Meu antigo repositório de Pokedex, onde fiz inicialmente apenas com JavaScript, HTML e CSS. 
+Utilizei o repositório como base, afim de pegar as cores que usei antes, relembrar como trabalhar com a API e alguns outros pontos.
+
+https://pokeapi.co/docs/v2 - Documentação da pokeapi que acessei principalmente para verificar como é o retorno da API
+
+https://color.adobe.com/pt/create/color-wheel - Ferramenta da adobe para paleta de cores, utilizei para pegar algumas cores novas que correspondesse com as cores antigas que já usava.
+
+Figma - Referencia visual dos detalhes da Pokedex
